@@ -1,1 +1,5 @@
 # meaningfulselfies
+
+TOPH_fair_use_preview.pdf -- a duly purchased copy of The Official Preppy Handbook by Lisa Birnbach legally purchased from a brick and mortar bookstore, is available in the researcher's private possession. as the book was published in the 1980s and no re-printings are currently in progress, the average sale price of a used copy of the book has jumped from $30 in the 2000s and early 2010s toward $100 or several hundred dollars on eBay or in other rare/ antique auctioning context. the researcher used his copy of TOPH for various digital humanities, text mining, and natural language processing research projects during graduate school. for valid academic research purposes only, the researcher is willing to consider granting reasonable fair use access to the full text corpus. proposals and inquires need not necessarily be STEM-oriented -- respect yourself and be ambitious -- I'll have to find the hilarious TikTok that respect yourself comes from
+
+![Screen Shot 2023-04-09 at 6 10 11 PM](https://user-images.githubusercontent.com/122980746/230800717-c548c8c1-f089-4130-ade5-8b05859a5fe5.png)
